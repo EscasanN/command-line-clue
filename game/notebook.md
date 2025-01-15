@@ -7,7 +7,7 @@
 
 ## Weapons
 - [ ] Old Key
-- [ ] Heavy Book
+- [x] Heavy Book
 - [ ] Kitchen Knife
 
 ## Notes
