@@ -6,7 +6,7 @@
 - [x] The Florist
 
 ## Weapons
-- [ ] Old Key
+- [x] Old Key
 - [x] Heavy Book
 - [ ] Kitchen Knife
 
