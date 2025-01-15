@@ -3,7 +3,7 @@
 ## Suspects
 - [ ] The Innkeeper
 - [ ] The Journalist
-- [ ] The Florist
+- [x] The Florist
 
 ## Weapons
 - [ ] Old Key
